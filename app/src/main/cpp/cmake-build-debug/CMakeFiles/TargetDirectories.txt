@@ -1,0 +1,3 @@
+C:/Users/IDlike/CLionProjects/SummerTTS/cmake-build-debug/CMakeFiles/tts_test.dir
+C:/Users/IDlike/CLionProjects/SummerTTS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/IDlike/CLionProjects/SummerTTS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

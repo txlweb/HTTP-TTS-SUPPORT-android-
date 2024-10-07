@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/test_spd"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="测试TTS性能" />
+    <item
+        android:id="@+id/model_manager"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="管理/选择 模型" />
+    <item
+        android:id="@+id/set_port"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="设置服务端口" />
+</menu>
